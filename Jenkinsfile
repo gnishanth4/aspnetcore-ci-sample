@@ -11,7 +11,7 @@ String publishedPath = "CISample\\CISample.App\\bin\\Release\\netcoreapp2.2\\pub
 String iisApplicationName = "cisample"
 
 //Hedef makinesindeki IIS'de tanımlı olan sitenizin dizini
-String iisApplicationPath = "C:\\Program Files\IIS\\webpages"
+String iisApplicationPath = "C:\\Program Files\\IIS\\webpages"
 
 //Hedef makinesinin IP'si
 String targetServerIP = "0.0.0.0"
